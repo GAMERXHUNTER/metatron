@@ -1,0 +1,17 @@
+[
+  {
+    "type": "youtube",
+    "topic": "video editing",
+    "limit": 25
+  },
+  {
+    "type": "reddit",
+    "topic": "video editing",
+    "limit": 25
+  },
+  {
+    "type": "article",
+    "topic": "video editing",
+    "limit": 25
+  }
+]

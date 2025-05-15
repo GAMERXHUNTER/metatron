@@ -1,0 +1,22 @@
+
+# Metatron AI System - Git Ignore Rules
+
+# Sensitive content
+Vault/
+Logs/
+Outputs/
+exports/
+
+# DB & cache files
+*.db
+*.sqlite
+*.pyc
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo

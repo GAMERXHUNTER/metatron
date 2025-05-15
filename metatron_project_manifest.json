@@ -1,0 +1,26 @@
+{
+  "project": "Metatron",
+  "version": "1.0",
+  "build": "2025-05-15",
+  "entry_docs": [
+    "docs/Metatron_MasterGPT_Instructions_Structured.md",
+    "docs/Metatron_MasterGPT_Instructions_Compressed.md",
+    "docs/TabernacleDigital_Instructions_MERGED_UPDATED.md",
+    "docs/TimeMasteryApp_ProjectSummary_andFeatureLog.md",
+    "docs/PROJECT_STRUCTURE.md"
+  ],
+  "agents": [
+    "agents/VaultProcessor_AI.py",
+    "agents/VaultEnhancer_AI.py",
+    "agents/VaultGPT_Plus_Agent.py",
+    "agents/Mastermold_Orchestrator.py",
+    "agents/EnhancedRenamer_Tool.py"
+  ],
+  "launchers": [
+    "launchers/Run_Mastermold.bat",
+    "launchers/Run_VaultGPT_Plus_Agent.bat",
+    "launchers/Run_EnhancedRenamer.bat"
+  ],
+  "dependencies": [],
+  "notes": "All agents run locally. Logs output to console or /VaultLogs."
+}
